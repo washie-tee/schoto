@@ -1,0 +1,20 @@
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+
+
+$('.counter').counterUp();
+
+
+$('.counter').counterUp({
+    delay: 10,
+    time: 1000
+});
+
+
+background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+
+background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+
+linear-gradient(
+      rgba(49, 0, 255, 0.8),
+      rgba(132, 5, 29, 0.8)
+    )
